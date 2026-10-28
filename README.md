@@ -10,23 +10,9 @@ Transformer · Temporal Graph · Gated Fusion · Uncertainty Scoring
 
 </div>
 
-STD-Net learns timestamp-level network anomalies from a temporal graph for each user. A Transformer branch captures sequence context, while a graph branch models local and skip-connected relationships between timestamps. Learned gates fuse the representations before a binary scoring head predicts a latent logit mean and variance.
+STD-Net learns timestamp-level network anomalies from a temporal graph for each user. A Transformer branch captures sequence context, while a graph branch models local and skip-connected relationships between timestamps. Learned gates fuse the representations before a binary scoring head predicts a latent logit mean and variance. 
 
 This is a maintained cleanup of the supplied research implementation. The model architecture and its heteroscedastic focal objective are retained. Preprocessing bugs and label leakage have been corrected; historical checkpoints and paper scores are **not validated for this version**. See [the migration record](docs/migration.md) before comparing experiments.
-
-```mermaid
-flowchart LR
-    A[Flow CSV] --> B[User / timestamp structure]
-    B --> C[Chronological features + train-only IV and scaling]
-    C --> D[Learned feature selector]
-    D --> E[Transformer]
-    D --> F[3 GCN layers + GAT]
-    E --> G[Gated fusion]
-    F --> G
-    G --> H[Linear adapter]
-    H --> I[Latent mean + variance]
-    I --> J[Anomaly probability]
-```
 
 ## Quick start
 

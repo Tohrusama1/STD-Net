@@ -1,0 +1,29 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+build/
+dist/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local datasets and generated runs
+/data/*
+!/data/README.md
+/runs/
+/logs/
+/saved_models*/
+*.pt
+*.pth
+*.pkl
+*.h5
+*.log
+.env
+.env.*

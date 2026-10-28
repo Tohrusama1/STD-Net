@@ -1,0 +1,6 @@
+{
+  "models/model.py": "5e27c2386696dc149a289839ba1115b27c0cf3e9fd0c4086b20008f6605a3f62",
+  "scripts/train.py": "3fb4062caa2098ef12f9c7878e61ca7501d1a4d399ce0c38a3bc87dc9c94eaad",
+  "configs/default.yaml": "d15a02d863b42d8c860924b8f3401e18cc47e45a9e56fcd00a9ba2ebf03deedb",
+  "requirements.txt": "dcd13956c344d348700e96eab25738854f1da02b93b40c73a4270a71df20ee6f"
+}

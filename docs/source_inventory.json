@@ -1,0 +1,547 @@
+[
+  {
+    "source": ".idea/.gitignore",
+    "bytes": 50,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": ".idea/.name",
+    "bytes": 8,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": ".idea/anomaly_detection.iml",
+    "bytes": 506,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": ".idea/inspectionProfiles/profiles_settings.xml",
+    "bytes": 174,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": ".idea/inspectionProfiles/Project_Default.xml",
+    "bytes": 1119,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": ".idea/misc.xml",
+    "bytes": 324,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": ".idea/modules.xml",
+    "bytes": 293,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": ".idea/workspace.xml",
+    "bytes": 3375,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "1run.py",
+    "bytes": 4989,
+    "action": "excluded: historical baseline, synthetic data, or superseded helper; retained in source"
+  },
+  {
+    "source": "2run.py",
+    "bytes": 12647,
+    "action": "excluded: historical baseline, synthetic data, or superseded helper; retained in source"
+  },
+  {
+    "source": "3run.py",
+    "bytes": 14068,
+    "action": "excluded: historical baseline, synthetic data, or superseded helper; retained in source"
+  },
+  {
+    "source": "4run.py",
+    "bytes": 12040,
+    "action": "excluded: historical baseline, synthetic data, or superseded helper; retained in source"
+  },
+  {
+    "source": "__pycache__/deepdrl.cpython-313.pyc",
+    "bytes": 10779,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "configs/default.yaml",
+    "bytes": 318,
+    "action": "replaced: unused dependencies/configuration removed"
+  },
+  {
+    "source": "data/raw/1process.py",
+    "bytes": 9144,
+    "action": "excluded: historical baseline, synthetic data, or superseded helper; retained in source"
+  },
+  {
+    "source": "data/raw/1user_behavior_data.csv",
+    "bytes": 150828752,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/data0.csv",
+    "bytes": 40759831,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/data1.csv",
+    "bytes": 41948175,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/data2.csv",
+    "bytes": 50526529,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/data_generation.py",
+    "bytes": 5291,
+    "action": "excluded: historical baseline, synthetic data, or superseded helper; retained in source"
+  },
+  {
+    "source": "data/raw/generate.py",
+    "bytes": 10111,
+    "action": "excluded: historical baseline, synthetic data, or superseded helper; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/data.csv",
+    "bytes": 29871348,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/metasploitable-2.csv",
+    "bytes": 52789315,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/OVS.csv",
+    "bytes": 55312637,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/test_data0.csv",
+    "bytes": 13210268,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/test_data1.csv",
+    "bytes": 13777359,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/test_data2.csv",
+    "bytes": 16003211,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/tkg.py",
+    "bytes": 5436,
+    "action": "excluded: historical baseline, synthetic data, or superseded helper; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/tkg1.csv",
+    "bytes": 9358036,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/tkg4.csv",
+    "bytes": 1535917,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/tkg_visualization.html",
+    "bytes": 5659,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/train_data0.csv",
+    "bytes": 30656947,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/train_data1.csv",
+    "bytes": 31989944,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/train_data2.csv",
+    "bytes": 37339122,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/train_data3.csv",
+    "bytes": 4337548,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/train_data4.csv",
+    "bytes": 4529408,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/train_data5.csv",
+    "bytes": 5295041,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/train_data6.csv",
+    "bytes": 22765987,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/train_data7.csv",
+    "bytes": 24127930,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/InSDN/train_data8.csv",
+    "bytes": 22418580,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/jk/test_data.csv",
+    "bytes": 4051502,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/jk/train_data.csv",
+    "bytes": 20190831,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/jk/user_behavior_data.csv",
+    "bytes": 40200501,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/MachineLearningCVE/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv",
+    "bytes": 77123859,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/MachineLearningCVE/Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv",
+    "bytes": 76906168,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/MachineLearningCVE/Friday-WorkingHours-Morning.pcap_ISCX.csv",
+    "bytes": 58316725,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/MachineLearningCVE/Monday-WorkingHours.pcap_ISCX.csv",
+    "bytes": 176927918,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/MachineLearningCVE/test_data.csv",
+    "bytes": 887021,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/MachineLearningCVE/Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv",
+    "bytes": 83102436,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/MachineLearningCVE/Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv",
+    "bytes": 52023263,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/MachineLearningCVE/train_data.csv",
+    "bytes": 4280366,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/MachineLearningCVE/Tuesday-WorkingHours.pcap_ISCX.csv",
+    "bytes": 135078995,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/MachineLearningCVE/Wednesday-workingHours.pcap_ISCX.csv",
+    "bytes": 225166395,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "data/raw/process.py",
+    "bytes": 7942,
+    "action": "excluded: historical baseline, synthetic data, or superseded helper; retained in source"
+  },
+  {
+    "source": "data/raw/process1.py",
+    "bytes": 13034,
+    "action": "excluded: historical baseline, synthetic data, or superseded helper; retained in source"
+  },
+  {
+    "source": "data/raw/test_data0.csv",
+    "bytes": 16058736,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "deepdrl.py",
+    "bytes": 9356,
+    "action": "excluded: historical baseline, synthetic data, or superseded helper; retained in source"
+  },
+  {
+    "source": "deepdrl0.csv",
+    "bytes": 2846,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "deepdrl1.csv",
+    "bytes": 2705,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "deepdrl2.csv",
+    "bytes": 3002,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "gatad.py",
+    "bytes": 6654,
+    "action": "excluded: historical baseline, synthetic data, or superseded helper; retained in source"
+  },
+  {
+    "source": "gatad0.csv",
+    "bytes": 5771,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "gatad1.csv",
+    "bytes": 5394,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "gatad2.csv",
+    "bytes": 5886,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "hiergnn.py",
+    "bytes": 9635,
+    "action": "excluded: historical baseline, synthetic data, or superseded helper; retained in source"
+  },
+  {
+    "source": "hiergnn0.csv",
+    "bytes": 2366,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "hiergnn1.csv",
+    "bytes": 1888,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "hiergnn2.csv",
+    "bytes": 2158,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "hiergnn_30_runs_summary.csv",
+    "bytes": 1311,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "hiergnn_model.pth",
+    "bytes": 65700,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "label_encoder.pkl",
+    "bytes": 490,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "logs/training_log_20250918_162440.txt",
+    "bytes": 1071,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "logs/training_log_20250918_163449.txt",
+    "bytes": 3341,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "logs/training_log_20250918_164619.txt",
+    "bytes": 3502,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "model_performance_30_runs.png",
+    "bytes": 535791,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "models/__pycache__/dataset.cpython-312.pyc",
+    "bytes": 4392,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "models/__pycache__/model.cpython-312.pyc",
+    "bytes": 8638,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "models/__pycache__/model.cpython-313.pyc",
+    "bytes": 19846,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "models/DeepIDPS/best_model.h5",
+    "bytes": 4199456,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "models/DeepIDPS/final_model.h5",
+    "bytes": 4199456,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "models/model.py",
+    "bytes": 12842,
+    "action": "refactored into src/stdnet/model.py"
+  },
+  {
+    "source": "net.py",
+    "bytes": 9194,
+    "action": "excluded: historical baseline, synthetic data, or superseded helper; retained in source"
+  },
+  {
+    "source": "net0.csv",
+    "bytes": 6217,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "net1.csv",
+    "bytes": 5634,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "net2.csv",
+    "bytes": 6271,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "network_traffic_classifier.h5",
+    "bytes": 589232,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "requirements.txt",
+    "bytes": 442,
+    "action": "replaced: unused dependencies/configuration removed"
+  },
+  {
+    "source": "saved_models/best_model.pth",
+    "bytes": 5956658,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "saved_models/best_model0.pth",
+    "bytes": 2292450,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "saved_models/best_model1.pth",
+    "bytes": 2456690,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "saved_models/feature_importance.png",
+    "bytes": 58567,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "saved_models/final_model.pth",
+    "bytes": 1602824,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "saved_models/preprocessors/feature_cols.txt",
+    "bytes": 62,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "saved_models/preprocessors/scaler.gz",
+    "bytes": 823,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "saved_models/preprocessors/text_encoders.gz",
+    "bytes": 15362,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "saved_models/scaler.gz",
+    "bytes": 1490,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "saved_models/supervised_model.pth",
+    "bytes": 380354,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "saved_models/text_encoders.gz",
+    "bytes": 28333,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "scaler.pkl",
+    "bytes": 1119,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "scripts/__pycache__/train.cpython-313.pyc",
+    "bytes": 59335,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "scripts/train.py",
+    "bytes": 53188,
+    "action": "split into preprocessing, graph, losses and CLI modules; see migration notes"
+  },
+  {
+    "source": "temp_results_10.csv",
+    "bytes": 728,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "temp_results_15.csv",
+    "bytes": 1012,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "temp_results_20.csv",
+    "bytes": 1304,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "temp_results_25.csv",
+    "bytes": 1597,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "temp_results_30.csv",
+    "bytes": 1888,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "temp_results_5.csv",
+    "bytes": 436,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "utils/__pycache__/metrics.cpython-312.pyc",
+    "bytes": 2299,
+    "action": "excluded: dataset, generated artifact, checkpoint, cache or IDE metadata; retained in source"
+  },
+  {
+    "source": "utils/metrics.py",
+    "bytes": 1141,
+    "action": "excluded: historical baseline, synthetic data, or superseded helper; retained in source"
+  }
+]

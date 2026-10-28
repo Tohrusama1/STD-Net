@@ -1,0 +1,2 @@
+# Install the package and its declared dependencies from this directory.
+-e .

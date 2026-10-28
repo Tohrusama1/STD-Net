@@ -1,0 +1,31 @@
+{
+  "model": {
+    "hidden_dim": 64,
+    "num_heads": 4,
+    "d_ff": 2048,
+    "e_layers": 2,
+    "dropout": 0.5
+  },
+  "preprocessing": {
+    "iv_min": 0.02,
+    "iv_max": null,
+    "grouping": "adaptive",
+    "grouping_threshold": 0.1
+  },
+  "training": {
+    "epochs": 10,
+    "learning_rate": 0.00002,
+    "device": "auto",
+    "seed": 42,
+    "max_grad_norm": 0.5,
+    "grad_clip_value": 5.0
+  },
+  "loss": {
+    "alpha": 0.7,
+    "gamma": 2.0,
+    "num_samples": 8,
+    "variance_regularizer": 0.0001
+  },
+  "label_rule": "any",
+  "threshold": 0.5
+}
